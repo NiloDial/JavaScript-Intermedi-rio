@@ -17,3 +17,24 @@ Se você sabe o que é o Github, já tem um conhecimento sobre essa ferramenta, 
 O primeiro exercício consiste em começar a usar as ferramentas web e o JS, vamos fazer isso criando um arquivo `.html`, ferramenta responsável pelo conteúdo de uma página, e nesse *HTML* vamos editar o titulo e a linguagem do nosso arquivo, dentro da Tag `<head>`, colocar um titulo(`<h1>`) e um texto(`<p>`) dentro da Tag `<body>` do *HTML*, isso significa que você esta colocando esses textos dentro do corpo do seu site. Colocamos também uma Tag `<style>` dentro do nosso *HTML* e fizermos nossas primeiras estilizações, usando a ferramenta CSS, modificamos a cor de fundo da página, a fonte e a cor da fonte. E para finalizar, criamos scripts simples usando o *JavaScript*, três scripts baseados na opção `*Window*` do navegador, criamos uma "janela" de alerta, confirmação e outra de coleta de informação. Para visualizar isso no navegador eu usei uma extensão do *VSCode*, o *LiveServer*, para rodar o projeto localmente na minha máquina.
 
 (Confira o exercício no arquivo: ex01.html)
+
+# COMENTÁRIOS
+
+Os comentários servem para você comentar seu código, mas se você simplesmente escrever um texto no meio do seu código, ele vai se misturar e dar erro, é para isso que serve os símbolos `//` e o `/* */`*.* 
+
+Com o `//`  você pode escrever um comentário em uma linha, já com o `/ * */` você pode escrever em mais de uma linha.
+
+`//Comentário de exemplo`
+
+`/*
+Comentário de exemplo
+usando duas linhas
+*/`
+
+Dessa forma você consegue deixar comentários pelo seu código sem que ele quebre.
+
+`<!— Comentários dentro do HTML —>`
+
+`/* Comentários dentro do CSS */`
+
+Também é possível deixar comentários no seu HTML e CSS como nos exemplos a cima.
