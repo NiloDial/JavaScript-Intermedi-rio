@@ -38,3 +38,7 @@ Dessa forma você consegue deixar comentários pelo seu código sem que ele queb
 `/* Comentários dentro do CSS */`
 
 Também é possível deixar comentários no seu HTML e CSS como nos exemplos a cima.
+
+# VARIÁVEIS
+
+As variáveis basicamente são informações que você deixa armazenada, para conseguir solicitar depois, exemplo, se você montar uma variável: `Var vaga = carro`, significa que quando você solicitar a `vaga`(identificador) ela vai retornar a informação armazenada que no casso é "carro".
